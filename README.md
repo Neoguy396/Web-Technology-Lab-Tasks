@@ -1,4 +1,4 @@
-# Web-Technology-Lab-Tasks 
+# Web-Technology-Lab-Tasks (UPDATED)
 
 NOTE(NOV-2018): Deleted all files and re-uploaded in .zip and according to the lab task number in "Sessionals and lab progress" section. 
 
